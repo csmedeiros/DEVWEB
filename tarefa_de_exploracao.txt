@@ -1,0 +1,15 @@
+https://docs.python.org/3/reference/index.html
+https://support.google.com/chrome/?hl=en#topic=7439538
+https://git-scm.com/docs
+https://firefox-source-docs.mozilla.org/contributing/index.html
+https://code.visualstudio.com/docs
+https://firefox-source-docs.mozilla.org/contributing/index.html
+https://learn.microsoft.com/en-us/microsoft-edge/
+
+Python será a linguagem usada para a implementaçãp do Servidor Web.
+
+Chrome, Edge e Firefox são navegadores (browsers). Tem função de cliente HTTP, servindo para receber os arquivos da página web (html, js, css) e exibindo-os para o usuário.
+
+Git é uma ferramente de versionamento, que utiliza de repositórios remotos para proporcionar a organização de versão e progresso do desenvolvimento.
+
+Visual Studio Code é uma IDE multilinguagem que permite o download das extensões (compiladores, interpretadores, etc.) para o uso com sua respectiva linguagem de programação.
